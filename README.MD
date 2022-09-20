@@ -5,8 +5,8 @@
 Clone this repo
 
 ```bash
-git clone 
-cd DjangoRestStarter
+git clone https://github.com/pdf3rn/django-rest-starter.git
+cd django-rest-starter
 ```
 
 Create virtual env:
