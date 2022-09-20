@@ -66,3 +66,5 @@ mkdir app/app_name
 # Start app
 python manage.py startapp app_name app/app_name
 ```
+
+Update project name in `apps.py` file adding the prefix `app.` to the app string name
