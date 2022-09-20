@@ -1,0 +1,13 @@
+asgiref
+Django==4.1.1
+django-environ
+Pillow==9.2.0
+psycopg2-binary==2.9.3
+pytz==2022.2.1
+sqlparse
+requests==2.28.1
+djangorestframework-simplejwt
+django-allauth
+djangorestframework~=3.13.1
+djangorestframework-datatables
+# django-model-utils
